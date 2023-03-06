@@ -1,0 +1,11 @@
+D:\eyebrushes\2D-cell-automates-main\lab4.pudov.932001\lab4.pudov.932001\bin\Debug\lab4.pudov.932001.exe.config
+D:\eyebrushes\2D-cell-automates-main\lab4.pudov.932001\lab4.pudov.932001\bin\Debug\lab4.pudov.932001.exe
+D:\eyebrushes\2D-cell-automates-main\lab4.pudov.932001\lab4.pudov.932001\bin\Debug\lab4.pudov.932001.pdb
+D:\eyebrushes\2D-cell-automates-main\lab4.pudov.932001\lab4.pudov.932001\obj\Debug\lab4.pudov.932001.csproj.AssemblyReference.cache
+D:\eyebrushes\2D-cell-automates-main\lab4.pudov.932001\lab4.pudov.932001\obj\Debug\lab4.pudov.932001.csproj.SuggestedBindingRedirects.cache
+D:\eyebrushes\2D-cell-automates-main\lab4.pudov.932001\lab4.pudov.932001\obj\Debug\lab4.pudov.Form1.resources
+D:\eyebrushes\2D-cell-automates-main\lab4.pudov.932001\lab4.pudov.932001\obj\Debug\lab4.pudov.Properties.Resources.resources
+D:\eyebrushes\2D-cell-automates-main\lab4.pudov.932001\lab4.pudov.932001\obj\Debug\lab4.pudov.932001.csproj.GenerateResource.cache
+D:\eyebrushes\2D-cell-automates-main\lab4.pudov.932001\lab4.pudov.932001\obj\Debug\lab4.pudov.932001.csproj.CoreCompileInputs.cache
+D:\eyebrushes\2D-cell-automates-main\lab4.pudov.932001\lab4.pudov.932001\obj\Debug\lab4.pudov.932001.exe
+D:\eyebrushes\2D-cell-automates-main\lab4.pudov.932001\lab4.pudov.932001\obj\Debug\lab4.pudov.932001.pdb
